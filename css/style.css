@@ -51,11 +51,3 @@
   width: 40px;
   margin-right: 30px;
 }
-.sticky-div {
-  position: relative;
-}
-.sticky th {
-  position: sticky;
-  top: 45px;
-  color: #FFFFFF;
-}
